@@ -7,5 +7,5 @@ while ( 1 ){
 	system("/app/git/1.8.0.2/LMWP2/bin/git add .");
 	system("git commit -m 'haha'");
 	system("git push");
-	sleep 5;	
+	#sleep 5;	
 }
